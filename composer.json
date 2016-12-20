@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ktamas77/firebase-php": "dev-master",
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
